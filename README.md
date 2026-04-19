@@ -7,7 +7,9 @@ A relational database modelling the operations of a London bus network. Built us
 
 ## File	Description
 `SQL_Bus_Database.sql`	Full database schema, sample data, and SQL queries
+
 `Database_Design.docx`	Design document including scenario, ER diagram, and relational model tables
+
 `Entity_Relationship_diagram.jpg`	Entity Relationship Diagram exported from Visual Paradigm
 
 
@@ -34,5 +36,5 @@ Section 5 — Multi-table queries
 Section 6 — Delete rows (commented out)
 Section 7 — Drop tables (commented out)
 
-Requirements
+# Requirements
 MySQL or any standard SQL-compatible database
